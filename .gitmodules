@@ -1,0 +1,3 @@
+[submodule "mobilize-mapper"]
+	path = mobilize-mapper
+	url = https://github.com/ebhasker/mobilize-mapper.git
